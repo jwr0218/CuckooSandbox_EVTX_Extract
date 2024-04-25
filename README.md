@@ -7,7 +7,7 @@ In This Repository, I can happily address you about how to extract EVTX files fr
 
 Logic is that analyzer which will be activated on window Guest server, extract EVTX and send them to Host Sever when analyzing is over. 
 
-This repo is first thing for extracting EVTX files on Cuckoo Sandbox. 
+This repo is first thing to extract intact EVTX files on Cuckoo Sandbox. 
 
 
 ## Install Cuckoo Sandbox 
